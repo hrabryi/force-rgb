@@ -4,7 +4,7 @@ Force RGB mode for external monitors for MacOS that defaults to YPbPr.
 
 ```sh
 brew install jq
-fisher install dangh/force-rgb.fish
+fisher install hrabryi/force-rgb
 ```
 
 ## Usage
